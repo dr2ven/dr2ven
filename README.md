@@ -1,7 +1,7 @@
-Hello world, I'm a system administrator.
+Hello world, I'm a System administrator.
 
-Programming languages I know:
+Programming languages I know
 
 <img height="40" align="left" src="https://skillicons.dev/icons?i=python,nodejs,java,gradle"/>
-<hr>
-Framefork experience:
+
+Framefork experience
